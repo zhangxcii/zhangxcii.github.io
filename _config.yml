@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr. Jincheng Zhang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dr. Jincheng Zhang"
+description              : &description "Assistant Professor at University of Warwick"
+url                      : https://zhangxcii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "academicpages/zhangxcii.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jincheng Zhang"
+  name             : "Dr. Jincheng Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor in School of Engineering at University of Warwick"
-  location         : "Coventry CV4 7AL, UK"
+  bio              : "Assistant Professor, School of Engineering, the University of Warwick"
+  location         : "Coventry, CV4 7AL, UK"
   employer         : "The University of Warwick"
   uri              : # URL
   email            : "Jincheng.Zhang.r1@warwick.ac.uk" 
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "zhangxcii"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
