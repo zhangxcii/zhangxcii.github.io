@@ -2,7 +2,7 @@
 title: "Wind farm digital twin"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the WF DT.'
+excerpt: 'This paper is about the WF.'
 date: 2023-01-01
 venue: 'APEN'
 paperurl: 'doi'
