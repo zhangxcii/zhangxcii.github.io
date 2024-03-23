@@ -1,7 +1,7 @@
 ---
 title: "Wind farm digital twin"
 collection: publications
-permalink: /publication/2009-10-01-wfdt-number-1
+permalink: /publication/2009-10-01-number-1
 excerpt: 'This paper is about the WF DT.'
 date: 2023-01-01
 venue: 'APEN'
