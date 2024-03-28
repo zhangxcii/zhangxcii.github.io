@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Jincheng Zhang"
+title                    : "Jincheng Zhang"
 title_separator          : "-"
 name                     : &name "Dr. Jincheng Zhang"
 description              : &description "Assistant Professor at University of Warwick"
