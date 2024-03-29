@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-This is Jincheng Zhang's home page.
+This is Jincheng Zhang's home page under development.
 
 News
 ======
-+Lorem ipsum
+
+- example
 
