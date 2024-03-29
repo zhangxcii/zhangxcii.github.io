@@ -34,5 +34,5 @@ author_profile: true
 2. **J. Zhang**, X. Zhao, and X. Wei, [Data-driven structural control of monopile wind turbine towers based on machine learning](https://zhangxcii.github.io/files/PaperC1.pdf), Proceedings of the 21st IFAC World Congress, Berlin, July 2020.
 
 ## Preprints
-1. R. Li, **J. Zhang**, and X. Zhao, [Long-distance and high-impact wind farm wake e↵ects revealed by SAR: a global-scale study](https://arxiv.org/abs/2311.18124), arXiv preprint arXiv:2311.18124, 2023.
+1. R. Li, **J. Zhang**, and X. Zhao, [Long-distance and high-impact wind farm wake effects revealed by SAR: a global-scale study](https://arxiv.org/abs/2311.18124), arXiv preprint arXiv:2311.18124, 2023.
 2. R. Li, **J. Zhang**, and X. Zhao, [Wake effects of offshore wind farm clusters revealed by SAR and WRF](https://arxiv.org/abs/2312.13942), arXiv preprint arXiv:2312.13942, 2023.
