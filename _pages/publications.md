@@ -12,15 +12,15 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Papers
-1. **J. Zhang** and X. Zhao, Digital twin of wind farms via physics-informed deep learning, Energy Conversion and Management 293, 117507, 2023.
-2. **J. Zhang**, X. Zhao, D. Greaves, and S. Jin, Modeling of a hinged-raft wave energy converter via deep operator learning and wave tank experiments, Applied Energy 341, 121072, 2023.
-3. R. Li, **J. Zhang**, X. Zhao, D. Wang, M. Hann, and D. Greaves, Phase-resolved real-time forecasting of three-dimensional ocean waves via machine learning and wave tank experiments, Applied Energy 348, 121529, 2023.
-4. R. Li, **J. Zhang**, and X. Zhao, Multi-fidelity modeling of wind farm wakes based on a novel super-fidelity network, Energy Conversion and Management 270, 116185, 2022.
-5. R. Li, **J. Zhang**, and X. Zhao, Dynamic wind farm wake modeling based on a bilateral convolutional neural network and high-fidelity LES data, Energy 258, 124845, 2022.
-6. **J. Zhang**, X. Zhao, S. Jin, and D. Greaves, Phase-resolved real-time ocean wave prediction with quantified uncertainty based on variational Bayesian machine learning, Applied Energy 324, 119711, 2022.
-7. **J. Zhang** and X. Zhao, Wind farm wake modeling based on deep convolutional conditional generative adversarial network, Energy 238, 121747, 2021.
-8. **J. Zhang** and X. Zhao, Three-dimensional spatiotemporal wind field reconstruction based on physics-informed deep learning, Applied Energy 300, 117390, 2021.
-9. H. Dong, **J. Zhang**, and X. Zhao, Intelligent wind farm control via deep reinforcement learning and high-fidelity simulations, Applied Energy 292, 116928, 2021.
+1. **J. Zhang** and X. Zhao, [Digital twin of wind farms via physics-informed deep learning](), Energy Conversion and Management 293, 117507, 2023.
+2. **J. Zhang**, X. Zhao, D. Greaves, and S. Jin, [Modeling of a hinged-raft wave energy converter via deep operator learning and wave tank experiments](), Applied Energy 341, 121072, 2023.
+3. R. Li, **J. Zhang**, X. Zhao, D. Wang, M. Hann, and D. Greaves, [Phase-resolved real-time forecasting of three-dimensional ocean waves via machine learning and wave tank experiments](), Applied Energy 348, 121529, 2023.
+4. R. Li, **J. Zhang**, and X. Zhao, [Multi-fidelity modeling of wind farm wakes based on a novel super-fidelity network](), Energy Conversion and Management 270, 116185, 2022.
+5. R. Li, **J. Zhang**, and X. Zhao, [Dynamic wind farm wake modeling based on a bilateral convolutional neural network and high-fidelity LES data](), Energy 258, 124845, 2022.
+6. **J. Zhang**, X. Zhao, S. Jin, and D. Greaves, [Phase-resolved real-time ocean wave prediction with quantified uncertainty based on variational Bayesian machine learning](), Applied Energy 324, 119711, 2022.
+7. **J. Zhang** and X. Zhao, [Wind farm wake modeling based on deep convolutional conditional generative adversarial network](), Energy 238, 121747, 2021.
+8. **J. Zhang** and X. Zhao, [Three-dimensional spatiotemporal wind field reconstruction based on physics-informed deep learning](), Applied Energy 300, 117390, 2021.
+9. H. Dong, **J. Zhang**, and X. Zhao, [Intelligent wind farm control via deep reinforcement learning and high-fidelity simulations](), Applied Energy 292, 116928, 2021.
 10. **J. Zhang** and X. Zhao, [Spatiotemporal wind field prediction based on physics-informed deep learning and LIDAR measurements](), Applied Energy 288, 116641, 2021.
 11. **J. Zhang** and X. Zhao, [Machine-learning-based surrogate modeling of aerodynamic flow around distributed structures](), AIAA Journal 59 (3), 868-879, 2021.
 12. **J. Zhang**, X. Zhao and X. Wei, [Reinforcement learning-based structural control of floating wind turbines](), IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2020, DOI: 10.1109/TSMC.2020.3032622.
