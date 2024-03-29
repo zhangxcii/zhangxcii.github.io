@@ -27,7 +27,7 @@ author_profile: true
 13. **J. Zhang** and X. Zhao, [A novel dynamic wind farm wake model based on deep learning](), Applied Energy 277, 115552, 2020.
 14. **J. Zhang** and X. Zhao, [Quantification of parameter uncertainty in wind farm wake modeling](), Energy 196, 117065, 2020.
 15. **J. Zhang** and S. Fu, [An efficient approach for quantifying parameter uncertainty in the SST turbulence model](), Computers & Fluids 181, 173-187, 2019.
-16. **J. Zhang** and S. Fu, [An efficient Bayesian uncertainty quantification approach with application to k-ω-γ transition modeling](https://github.com/zhangxcii/zhangxcii.github.io/blob/master/files/PaperJ1.pdf), Computers & Fluids 161, 211-224, 2018.
+16. **J. Zhang** and S. Fu, [An efficient Bayesian uncertainty quantification approach with application to k-ω-γ transition modeling](https://zhangxcii.github.io/files/PaperJ1.pdf), Computers & Fluids 161, 211-224, 2018.
 
 ## Conference Papers
 1. R. Li, **J. Zhang**, and X. Zhao, Deep learning-based wind farm power prediction using Transformer network, Proceedings of the 2022 European Control Conference (ECC), London, July 2022.
