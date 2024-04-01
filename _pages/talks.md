@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks available online"
+title: "Talks Available Online"
 permalink: /talks/
 author_profile: true
 ---
