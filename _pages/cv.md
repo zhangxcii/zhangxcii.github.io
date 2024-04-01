@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Please find my CV [here]('www')"
+title: "Please find my CV here"
 permalink: /cv/
 author_profile: true
 redirect_from:
