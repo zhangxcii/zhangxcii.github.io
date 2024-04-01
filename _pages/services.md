@@ -20,4 +20,4 @@ author_profile: true
 - APL Machine Learning
 
 ## Conference Reviewer
-- Torque Conference 2024
+- TORQUE Conference 2024
