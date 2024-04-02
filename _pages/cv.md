@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Please find my CV here"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,3 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
+Please find my CV here.
