@@ -13,5 +13,5 @@ Research
 ======
 
 ## Wind farm digital twin
-![](../images/greedy.mp4)
+![](images/greedy.mp4)
 
