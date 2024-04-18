@@ -12,5 +12,6 @@ I am currently an Assistant Professor in the School of Engineering at the Univer
 Research
 ======
 
-- example
+## Wind farm digital twin
+![](../images/greedy.mp4)
 
