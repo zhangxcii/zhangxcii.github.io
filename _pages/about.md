@@ -13,5 +13,5 @@ Research
 ======
 
 ## Wind farm digital twin
-![](https://zhangxcii.github.io/images/greedy.mp4)
+![](images/greedy.mp4)
 
