@@ -13,5 +13,5 @@ Research
 ======
 My research interests are in physics-informed machine learning, AI for fluid dynamics, ML-based modeling, prediction, and control of complex fluid flows, and their applications on renewable energy systems e.g. wind energy and ocean energy.
 ## Wind farm digital twin
-![](images/WindFarmDT.mp4)
+![](images/WFDT.jpg)
 
