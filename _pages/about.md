@@ -15,7 +15,7 @@ My research interests are in physics-informed machine learning, AI for fluid dyn
 ## Wind farm digital twin
 (a) The data and knowledge fusion framework for establishing the wind farm digital twin
 ![](images/WFDT.jpg)
-(b) Results: a greedy case (left), a wake-steering case (middle), and a partially-operating case (right)
+(b) Case studies: a greedy case, a wake-steering case, and a partially-operating case
 <img src="https://zhangxcii.github.io/images/case1.mp4" width="300"> 
 <img src="https://zhangxcii.github.io/images/case2.mp4" width="300">
 <img src="https://zhangxcii.github.io/images/case3.mp4" width="300">
