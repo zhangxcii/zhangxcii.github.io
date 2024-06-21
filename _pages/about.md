@@ -17,7 +17,7 @@ My research interests are in physics-informed machine learning, AI for fluid dyn
 ![](images/WFDT.jpg)
 (b) Case studies: a greedy case (left), a wake-steering case (middle), and a partially-operating case (right)
 ![](images/case1.mp4)
-<img src="https://zhangxcii.github.io/images/case1.mp4"> 
+<img src="https://zhangxcii.github.io/images/case1.mp4" width="100">
 
 
 
