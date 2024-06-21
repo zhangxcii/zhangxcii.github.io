@@ -20,5 +20,9 @@ My research interests are in physics-informed machine learning, AI for fluid dyn
 <img src="https://zhangxcii.github.io/images/case2.mp4" width="250">
 <img src="https://zhangxcii.github.io/images/case3.mp4" width="250">
 
+## Wind field reconstruction via PINNs
 
+## Wake modelling via ML + CFD
+
+## Wave reconstruction and forecasting with uncertainty quantification
 
