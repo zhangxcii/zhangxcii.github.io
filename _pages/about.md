@@ -38,8 +38,8 @@ My research interests are in physics-informed machine learning, AI for fluid dyn
 ![](images/CFDML.png)
 
 (b) Static wake models   
-- [Deep covolutional GAN](https://zhangxcii.github.io/files/PaperJ10.pdf)
--- Case studies: a greedy case  
+- [Deep covolutional GAN](https://zhangxcii.github.io/files/PaperJ10.pdf)    
+Case studies: a greedy case  
 ![](images/gangreedy.jpeg)
 Case studies: a wake-steering case   
 ![](images/ganyaw.jpeg)   
