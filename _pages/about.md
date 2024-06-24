@@ -26,11 +26,11 @@ My research interests are in physics-informed machine learning, AI for fluid dyn
 <img src="https://zhangxcii.github.io/images/ABLInflow2D.jpeg" width="600"> 
 
 (b) 2D wind field prediction for the flow in front of a wind turbine. 
-<img src="https://zhangxcii.github.io/images/ABLInflow2D.mp4" width="600"> 
+<img src="https://zhangxcii.github.io/images/ABLInflow2D.mp4" width="500"> 
 
 (c) 3D wind field prediction for the flow in front of a wind turbine. 
-<img src="https://zhangxcii.github.io/images/sliceview.mp4" width="600">
-<img src="https://zhangxcii.github.io/images/rotor.mp4" width="600">
+![](images/sliceview.mp4)
+![](images/rotor.mp4)
 
 ## Wake modelling via ML + CFD
 (a) The overall surrogate modelling framework
