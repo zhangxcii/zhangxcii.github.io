@@ -30,15 +30,33 @@ My research interests are in physics-informed machine learning, AI for fluid dyn
 
 (c) 3D wind field prediction for the flow in front of a wind turbine. 
 ![](images/sliceview.mp4)
+
 ![](images/rotor.mp4)
 
 ## Wake modelling via ML + CFD
-(a) The overall surrogate modelling framework
+(a) The overall surrogate modelling framework   
 ![](images/CFDML.png)
 
-(b) POD + LSTM
+(b) Static wake models   
+- [Deep covolutional GAN](https://zhangxcii.github.io/files/PaperJ10.pdf)
 
-(c) Multi-fidelity
+   
+- [Super-fidelity net](https://zhangxcii.github.io/files/PaperJ12.pdf): handling multi-fidelity datasets   
 
-## Wave reconstruction and forecasting with uncertainty quantification
+   
+(c) Dynamic wake models   
+- [Bilateral CNN](https://zhangxcii.github.io/files/PaperJ13.pdf)
+![](images/single1.mp4)
+![](images/single2.mp4)
 
+- [POD-LSTM](https://zhangxcii.github.io/files/PaperJ4.pdf)
+![](images/PODLSTM.mp4)
+
+## Wave forecasting and wave energy converter modelling
+
+
+## Reinforcement learning based control for wind energy applications
+- wind turbine
+- wind farm
+
+## Uncertainty quantification
