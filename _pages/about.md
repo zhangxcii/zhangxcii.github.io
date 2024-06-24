@@ -45,14 +45,11 @@ My research interests are in physics-informed machine learning, AI for fluid dyn
    
 (c) Dynamic wake models   
 - [Bilateral CNN](https://zhangxcii.github.io/files/PaperJ13.pdf)
-  
-<img src="https://zhangxcii.github.io/images/single1.mp4" width="500">
-<img src="https://zhangxcii.github.io/images/single2.mp4" width="500">
+![](images/single1.mp4)
+![](images/single2.mp4)
 
 - [POD-LSTM](https://zhangxcii.github.io/files/PaperJ4.pdf)
-- 
 ![](images/PODLSTM.mp4)
-
 
 ## Wave forecasting and wave energy converter modelling
 
