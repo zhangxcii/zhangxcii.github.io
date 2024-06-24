@@ -30,6 +30,7 @@ My research interests are in physics-informed machine learning, AI for fluid dyn
 
 (c) 3D wind field prediction for the flow in front of a wind turbine. 
 ![](images/sliceview.mp4)
+
 ![](images/rotor.mp4)
 
 ## Wake modelling via ML + CFD
@@ -40,9 +41,13 @@ My research interests are in physics-informed machine learning, AI for fluid dyn
  
 (c) Dynamic wake models
 - [Bilateral CNN](https://zhangxcii.github.io/files/PaperJ13.pdf)
-<img src="https://zhangxcii.github.io/images/single1.mp4" width="250">
-<img src="https://zhangxcii.github.io/images/single2.mp4" width="250">
+  
+<img src="https://zhangxcii.github.io/images/single1.mp4" width="500">
+<img src="https://zhangxcii.github.io/images/single2.mp4" width="500">
+
 - [POD-LSTM](https://zhangxcii.github.io/files/PaperJ4.pdf)
+- 
 ![](images/PODLSTM.mp4)
+
 ## Wave reconstruction and forecasting with uncertainty quantification
 
