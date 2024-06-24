@@ -41,7 +41,7 @@ My research interests are in physics-informed machine learning, AI for fluid dyn
 - [Deep covolutional GAN](https://zhangxcii.github.io/files/PaperJ10.pdf)
 ![](images/gangreedy.jpeg)
 ![](images/ganyaw.jpeg)   
-- [Super-fidelity net](https://zhangxcii.github.io/files/PaperJ12.pdf): handling multi-fidelity datasets   
+- [Super-fidelity net: handling multi-fidelity datasets](https://zhangxcii.github.io/files/PaperJ12.pdf)     
 ![](images/SFnet.jpeg)
    
 (c) Dynamic wake models   
