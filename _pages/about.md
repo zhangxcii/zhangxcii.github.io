@@ -34,12 +34,12 @@ My research interests are in physics-informed machine learning, AI for fluid dyn
 ![](images/rotor.mp4)
 
 ## Wake modelling via ML + CFD
-(a) The overall surrogate modelling framework
+(a) The overall surrogate modelling framework   
 ![](images/CFDML.png)
 
-(b) Static wake models
+(b) Static wake models   
  
-(c) Dynamic wake models
+(c) Dynamic wake models   
 - [Bilateral CNN](https://zhangxcii.github.io/files/PaperJ13.pdf)
   
 <img src="https://zhangxcii.github.io/images/single1.mp4" width="500">
