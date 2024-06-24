@@ -13,14 +13,23 @@ Research
 ======
 My research interests are in physics-informed machine learning, AI for fluid dynamics, ML-based modeling, prediction, and control of complex fluid flows, and their applications on renewable energy systems e.g. wind energy and ocean energy.
 ## Wind farm digital twin
-(a) The data and knowledge fusion framework for establishing the wind farm digital twin
+(a) The data and knowledge fusion framework for establishing the digital twin for wind farm wake flows
 ![](images/WFDT.jpg)
 (b) Case studies: a greedy case, a wake-steering case, and a partially-operating case
-<img src="https://zhangxcii.github.io/images/case1.mp4" width="250"> 
-<img src="https://zhangxcii.github.io/images/case2.mp4" width="250">
-<img src="https://zhangxcii.github.io/images/case3.mp4" width="250">
+<img src="https://zhangxcii.github.io/images/Greedy.mp4" width="250"> 
+<img src="https://zhangxcii.github.io/images/yaw.mp4" width="250">
+<img src="https://zhangxcii.github.io/images/partial.mp4" width="250">
 
 ## Wind field reconstruction via PINNs
+(a) The PINNs framework combining wind LIDAR with NS equations for reconstructing atmospheric boundary layer flows
+![](images/ABLInflow2D.jpg)
+(b) 2D wind field prediction for the flow in front of a wind turbine. 
+<img src="https://zhangxcii.github.io/images/ABLInflow2D.mp4" width="250"> 
+(c) 3D wind field prediction for the flow in front of a wind turbine. 
+<img src="https://zhangxcii.github.io/images/sliceview.mp4" width="250">
+<img src="https://zhangxcii.github.io/images/rotorparallel.mp4" width="250">
+<img src="https://zhangxcii.github.io/images/rotor.mp4" width="250">
+
 
 ## Wake modelling via ML + CFD
 
