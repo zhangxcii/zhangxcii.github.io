@@ -36,9 +36,13 @@ My research interests are in physics-informed machine learning, AI for fluid dyn
 (a) The overall surrogate modelling framework
 ![](images/CFDML.png)
 
-(b) POD + LSTM
-
-(c) Multi-fidelity
-
+(b) Static wake models
+ 
+(c) Dynamic wake models
+- [Bilateral CNN](https://zhangxcii.github.io/files/PaperJ13.pdf)
+<img src="https://zhangxcii.github.io/images/single1.mp4" width="250">
+<img src="https://zhangxcii.github.io/images/single2.mp4" width="250">
+- [POD-LSTM](https://zhangxcii.github.io/files/PaperJ4.pdf)
+![](images/PODLSTM.mp4)
 ## Wave reconstruction and forecasting with uncertainty quantification
 
