@@ -22,17 +22,15 @@ My research interests are in physics-informed machine learning, AI for fluid dyn
 <img src="https://zhangxcii.github.io/images/partial.mp4" width="250">
 
 ## Wind field reconstruction via PINNs
-(a) The PINNs framework combining wind LIDAR with NS equations for reconstructing atmospheric boundary layer flows
-<img src="https://zhangxcii.github.io/images/ABLInflow2D.jpeg" width="300"> 
+(a) Wind LIDAR + NS equations: reconstructing atmospheric boundary layer flows
+<img src="https://zhangxcii.github.io/images/ABLInflow2D.jpeg" width="400"> 
 
 (b) 2D wind field prediction for the flow in front of a wind turbine. 
-<img src="https://zhangxcii.github.io/images/ABLInflow2D.mp4" width="300"> 
+<img src="https://zhangxcii.github.io/images/ABLInflow2D.mp4" width="400"> 
 
 (c) 3D wind field prediction for the flow in front of a wind turbine. 
-<img src="https://zhangxcii.github.io/images/sliceview.mp4" width="500">
-<img src="https://zhangxcii.github.io/images/rotorparallel.mp4" width="500">
-<img src="https://zhangxcii.github.io/images/rotor.mp4" width="500">
-
+<img src="https://zhangxcii.github.io/images/sliceview.mp4" width="600">
+<img src="https://zhangxcii.github.io/images/rotor.mp4" width="600">
 
 ## Wake modelling via ML + CFD
 
