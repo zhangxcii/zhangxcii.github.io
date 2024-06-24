@@ -56,3 +56,7 @@ My research interests are in physics-informed machine learning, AI for fluid dyn
 
 ## Wave reconstruction and forecasting with uncertainty quantification
 
+
+## Reinforcement learning based control for wind energy applications
+- wind turbine
+- wind farm
