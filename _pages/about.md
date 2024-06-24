@@ -33,6 +33,11 @@ My research interests are in physics-informed machine learning, AI for fluid dyn
 <img src="https://zhangxcii.github.io/images/rotor.mp4" width="600">
 
 ## Wake modelling via ML + CFD
+(a) overall framework
+
+(b) POD + LSTM
+
+(c) Multi-fidelity
 
 ## Wave reconstruction and forecasting with uncertainty quantification
 
