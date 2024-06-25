@@ -47,11 +47,11 @@ Case studies: a wake-steering case
 ![](images/SFnet.jpeg)
    
 (c) Dynamic wake models   
-- [Bilateral CNN](https://zhangxcii.github.io/files/PaperJ13.pdf)
+- [Bilateral CNN](https://zhangxcii.github.io/files/PaperJ13.pdf)    
 ![](images/single1.mp4)
 ![](images/single2.mp4)
 
-- [POD-LSTM](https://zhangxcii.github.io/files/PaperJ4.pdf)
+- [POD-LSTM](https://zhangxcii.github.io/files/PaperJ4.pdf)    
 ![](images/PODLSTM.mp4)
 
 ## Wave forecasting and wave energy converter modelling
