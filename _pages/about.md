@@ -67,16 +67,15 @@ Case studies: a wake-steering case
 
 ## Wave energy converter modelling via deep operator learning    
 (a) The employed DeepONet network structure   
-![](images/deeponet.png)
+![](images/deeponet.jpeg)
 
-(b) The evaluation of the data-driven WEC model    
-![](images/TestDatasets7.png)   
-   
-(c) Results comparison in terms of spectral response amplitude operator    
+(b) The evaluation of the data-driven model via spectral response amplitude operator    
 ![](images/RAO.jpeg)
 
-## Reinforcement learning based control for wind energy applications
-- wind turbine
-- wind farm
+## Intelligent control via reinforcement learning    
+(a) Wind turbine    
+(b) Wind farm    
 
-## Uncertainty quantification
+## Uncertainty quantification    
+(a) Wind turbine wake    
+(b) Turbulence/Transition model    
