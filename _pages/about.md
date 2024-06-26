@@ -73,9 +73,16 @@ Case studies: a wake-steering case
 ![](images/RAO.jpeg)
 
 ## Intelligent control via reinforcement learning    
-(a) Wind turbine    
-(b) Wind farm    
+(a) Structural control of floating wind turbines   
+![](images/RLturbine.png)   
+(b) Wake-steering yaw control of wind farms    
+![](images/RLfarm.jpeg)
 
-## Uncertainty quantification    
-(a) Wind turbine wake    
-(b) Turbulence/Transition model    
+## Uncertainty quantification       
+(a) Quantification of parameter uncertainty in analytical wind turbine wake model   
+![](images/florisuq.jpeg)    
+
+(b) Quantification of parameter uncertainty in turbulence/transition models  
+<img src="https://zhangxcii.github.io/images/sstuq.mp4" width="250"> 
+<img src="https://zhangxcii.github.io/images/transuq.mp4" width="250"> 
+
