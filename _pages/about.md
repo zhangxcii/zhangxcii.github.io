@@ -83,6 +83,6 @@ Case studies: a wake-steering case
 ![](images/florisuq.jpeg)    
 
 (b) Quantification of parameter uncertainty in turbulence/transition models  
-<img src="https://zhangxcii.github.io/images/sstuq.jpeg" width="250"> 
-<img src="https://zhangxcii.github.io/images/transuq.jpeg" width="250"> 
+<img src="https://zhangxcii.github.io/images/sstuq.png" width="250"> 
+<img src="https://zhangxcii.github.io/images/transuq.png" width="250"> 
 
