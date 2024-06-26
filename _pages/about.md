@@ -54,8 +54,26 @@ Case studies: a wake-steering case
 - [POD-LSTM](https://zhangxcii.github.io/files/PaperJ4.pdf)    
 ![](images/PODLSTM.mp4)
 
-## Wave forecasting and wave energy converter modelling
+## Phase-resolved sea wave prediction and predictable zone determination    
+(a) Probabilistic phase-resolved wave prediction formulation    
+![](images/wavepred.png)
 
+(b) Wave prediction and predictable zone determination        
+![](images/results_wave.jpeg)   
+   
+(c) Wave forecasting and forecastable horizon determination    
+![](images/waveforecast.jpeg)
+
+
+## Wave energy converter modelling via deep operator learning    
+(a) The employed DeepONet network structure   
+![](images/deeponet.png)
+
+(b) The evaluation of the data-driven WEC model    
+![](images/TestDatasets7.png)   
+   
+(c) Results comparison in terms of spectral response amplitude operator    
+![](images/RAO.jpeg)
 
 ## Reinforcement learning based control for wind energy applications
 - wind turbine
