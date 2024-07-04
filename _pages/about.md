@@ -70,7 +70,7 @@ Case studies: a wake-steering case
 ![](images/deeponet.jpeg)
 
 (b) The evaluation of the data-driven model via spectral response amplitude operator    
-![](images/rao.jpeg)    
+![](images/RAO.jpeg)    
 
 ## Intelligent control via reinforcement learning    
 (a) Structural control of floating wind turbines   
