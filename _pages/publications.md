@@ -30,8 +30,9 @@ author_profile: true
 16. **J. Zhang** and S. Fu, [An efficient Bayesian uncertainty quantification approach with application to k-ω-γ transition modeling](https://zhangxcii.github.io/files/PaperJ1.pdf), Computers & Fluids 161, 211-224, 2018.
 
 ## Conference Papers
-1. R. Li, **J. Zhang**, and X. Zhao, [Deep learning-based wind farm power prediction using Transformer network](https://zhangxcii.github.io/files/PaperC2.pdf), Proceedings of the 2022 European Control Conference (ECC), London, July 2022.
-2. **J. Zhang**, X. Zhao, and X. Wei, [Data-driven structural control of monopile wind turbine towers based on machine learning](https://zhangxcii.github.io/files/PaperC1.pdf), Proceedings of the 21st IFAC World Congress, Berlin, July 2020.
+1. **J. Zhang** and X. Zhao, [Reconstruction of dynamic wind turbine wake flow fields from virtual Lidar measurements via physics-informed neural networks](https://zhangxcii.github.io/files/PaperC3.pdf), TORQUE2024, Journal of Physics: Conference Series. IOP Publishing, 2767(9): 092017, 2024.
+2. R. Li, **J. Zhang**, and X. Zhao, [Deep learning-based wind farm power prediction using Transformer network](https://zhangxcii.github.io/files/PaperC2.pdf), Proceedings of the 2022 European Control Conference (ECC), London, July 2022.
+3. **J. Zhang**, X. Zhao, and X. Wei, [Data-driven structural control of monopile wind turbine towers based on machine learning](https://zhangxcii.github.io/files/PaperC1.pdf), Proceedings of the 21st IFAC World Congress, Berlin, July 2020.
 
 ## Preprints
 1. R. Li, **J. Zhang**, and X. Zhao, [Long-distance and high-impact wind farm wake effects revealed by SAR: a global-scale study](https://arxiv.org/abs/2311.18124), arXiv preprint arXiv:2311.18124, 2023.
