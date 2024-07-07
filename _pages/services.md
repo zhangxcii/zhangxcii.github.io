@@ -12,6 +12,7 @@ author_profile: true
 - AIAA Journal
 - Engineering Applications of Computational Fluid Mechanics
 - Applied Energy
+- Applied Ocean Research
 - IET Renewable Power Generation
 - Atmospheric Measurement Techniques
 - IEEE Transactions on Automation Science and Engineering
